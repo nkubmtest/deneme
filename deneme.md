@@ -1,4 +1,4 @@
-|BIG HEADER|
+| BIG HEADER |
 | ----- |
 | Syntax      | Description |
 | ----------- | ----------- |

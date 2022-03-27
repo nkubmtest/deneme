@@ -6,7 +6,7 @@
 | Paragraph   | Text        |
 
 
-<
+
 <html>
     <head>
         <title>Example</title>
@@ -15,5 +15,3 @@
         <p>This is an example of a simple HTML page with one paragraph.</p>
     </body>
 </html>
-
->

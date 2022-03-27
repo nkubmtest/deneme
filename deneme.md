@@ -1,5 +1,5 @@
 |BIG HEADER|
-|-----|
+| ----- |
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
